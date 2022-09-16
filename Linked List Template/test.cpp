@@ -6,7 +6,7 @@
 #include <iostream>
 #include <string>
 #include "node.hpp"
-#include "list.hpp"
+#include "listCollection.hpp"
 
 using std::cout; using std::endl; using std::string;
 
