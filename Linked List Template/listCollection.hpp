@@ -1,7 +1,7 @@
 //Lab 3 - Templated Colleciton class that uses nodes to implement a singly linked list
 //Isaac Fowler
 //
-//templatedList.hpp
+//listCollection.hpp
 
 #ifndef LIST_HPP
 #define LIST_HPP
