@@ -1,3 +1,8 @@
+//Lab 3 - Templated Colleciton class that uses nodes to implement a singly linked list
+//Isaac Fowler
+//
+//test.cpp
+
 #include <iostream>
 #include <string>
 #include "node.hpp"
