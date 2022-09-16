@@ -5,4 +5,4 @@ and finding the last node. The test file demonstrates example usages with differ
 
 ### Example output:
 
-![Output](https://i.imgur.com/9wbQYGo.png)
+![Output](https://i.imgur.com/l24jC7z.png)
