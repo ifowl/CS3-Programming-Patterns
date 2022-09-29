@@ -5,6 +5,7 @@ display classes that each student is a member of, as well as excluding any dropo
 
 Format: ./map.out (class file) (class file) ... (dropouts file)
 or ./set.out (class file) (class file) ... (dropouts file)
+
 Note: File containing dropouts must be the last argument.
 
 ### Example output:
