@@ -8,7 +8,6 @@
 #include <vector>
 #include <list>
 #include <string>
-#include <map> //DELETE THIS SOON
 #include <set>
 #include <cstdlib>
 
@@ -17,7 +16,6 @@ using std::string; using std::getline;
 using std::list; using std::vector;
 using std::cout; using std::endl;
 using std::move;
-using std::map; //DELETE THIS SOON
 using std::set;
 
 
