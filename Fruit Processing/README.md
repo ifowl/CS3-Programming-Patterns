@@ -1,6 +1,6 @@
 # Linked List Template
 ### Description
-Oranges implements a multimap using safe insertion and selection. Apples and peaches implement various STL Algorithms for manipulating a container of objects.
+Oranges implements a multimap using safe insertion and selection. Apples and peaches implement various STL Algorithms for manipulating a container of objects. All containers are generated randomly for each execution.
 
 ### Example output:
 
