@@ -5,5 +5,5 @@ Oranges implements a multimap using safe insertion and selection. Apples and pea
 ### Example output:
 
 ![Output](https://i.imgur.com/O7TcWRA.png)
-![Output](https://i.imgur.com/0vCvUU6.png)
+![Output](https://i.imgur.com/4d6R0bD.png)
 ![Output](https://i.imgur.com/C2pV9KN.png)
