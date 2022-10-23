@@ -7,4 +7,4 @@ C++ Programming Assignments
 4. Roster with Class Schedule; Associative - Map and set containers using custom class
 5. Fruit Processing - Multimap, STL Algorithms, lambda expressions, iterators
 6. Updating Hash Container Implementation - Return types, custom iterators, safe insertion, rehashing buckets
-7. Singleton Logger, Templated Dice - Singleton and Templated Method design patterns
+7. Singleton Logger, Templated Dice - Meyer's Singleton and Templated Method design patterns
