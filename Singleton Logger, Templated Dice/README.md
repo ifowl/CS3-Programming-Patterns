@@ -8,5 +8,5 @@ Usage: ./singleton.out or ./dice.out
 
 ### Example output:
 
-![Output](https://i.imgur.com/b0NcGPP.png)
 ![Output](https://i.imgur.com/BkmgmSd.png)
+![Output](https://i.imgur.com/b0NcGPP.png)
