@@ -8,3 +8,4 @@ C++ Programming Assignments
 5. Fruit Processing - Multimap, STL Algorithms, lambda expressions, iterators
 6. Updating Hash Container Implementation - Return types, custom iterators, safe insertion, rehashing buckets
 7. Singleton Logger, Templated Dice - Meyer's Singleton and Templated Method design patterns
+8. Abstract Car Dealership, Bridge Painted Square - Abstract Factory and Bridge design patterns
