@@ -9,10 +9,8 @@ Part three: Observer design pattern. Customers can now take orders one at a time
 finishing their order during each iteration. Customers are observers which register with a Barista to receive notifications. When they recieve notifications, Customers
 determine if the order is theirs and will pick it up if it is their name.
 
-Usage: ./AdapterClass.out or ./PrototypeScheduler.out
+Usage: ./CoffeeShack.out
 
 ### Example output:
 
-![Output](https://i.imgur.com/2ARpAjM.png)
-![Output](https://i.imgur.com/q6i7h0X.png)
-![Output](https://i.imgur.com/L5Dnxwi.png)
+![Output](https://i.imgur.com/UTe6RMA.png)
