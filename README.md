@@ -11,3 +11,4 @@ C++ Programming Assignments
 8. Abstract Car Dealership, Bridge Painted Square - Abstract Factory and Bridge design patterns
 9. Adapter Moving Square, Prototype State Scheduler - Adapter, State, and Prototype design patterns
 10. Coffee Shack - Decorator, Chain of Responsibility, Observer design patterns
+11. Composite Visitor Genealogy, Checkpointed History - Composite, Visitor, Command, and Memento design patterns
