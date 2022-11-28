@@ -9,9 +9,12 @@ purge history, as does rolling back to a checkpoint.
 
 Usage: ./genealogyTree.out or ./history.out
 
-### Example output:
+### Genealogy Tree:
 
 ![Output](https://i.imgur.com/foInmCW.png)
 ![Output](https://i.imgur.com/uHSEvn3.png)
+
+### Checkpointed History:
+
 ![Output](https://i.imgur.com/ML96YY5.png)
 ![Output](https://i.imgur.com/cKvyJUI.png)
