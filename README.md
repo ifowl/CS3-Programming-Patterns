@@ -12,3 +12,4 @@ C++ Programming Assignments
 9. Adapter Moving Square, Prototype State Scheduler - Adapter, State, and Prototype design patterns
 10. Coffee Shack - Decorator, Chain of Responsibility, Observer design patterns
 11. Composite Visitor Genealogy, Checkpointed History - Composite, Visitor, Command, and Memento design patterns
+12. Mediator Flyweight ATC, Keyed Registry - Mediator, Flyweight, Registry design patterns
